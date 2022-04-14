@@ -122,3 +122,14 @@ body {
         font-size: 32px;
     }
 }
+
+@media screen and (max-width: 506px) {
+    .footer {
+        justify-content: center !important;
+    }
+
+    .text-muted {
+        display: block;
+        margin-bottom: 16px;
+    }
+}
